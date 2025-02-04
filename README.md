@@ -24,7 +24,7 @@ By 2021, we have witnessed the unprecedented feat of AI generating high-quality 
 
 ## Experiment
 
-You may use this [notebook](https://github.com/reshalfahsi/medical-latent-diffusion-model/blob/master/Med_Image_Gen_Label_Cond_LDM.ipynb) to synthesize an medical image (i.e., chest X-ray) conditioned on a particular label: ``normal``, ``pneumonia``, or ``None`` (the unconditional progressive generation).
+You may use this [notebook](https://github.com/reshalfahsi/medical-latent-diffusion-model/blob/master/Med_Image_Gen_Label_Cond_LDM.ipynb) to synthesize a medical image (i.e., chest X-ray) conditioned on a particular label: ``normal``, ``pneumonia``, or ``None`` (the unconditional progressive generation).
 
 
 ## Result
