@@ -43,23 +43,23 @@ LPIPS       | 0.2709
 
 #### Loss and LPIPS Curve
 
-<p align="center"> <img src="https://github.com/reshalfahsi/medical-latent-diffusion-model/blob/master/assets/loss_curve_vqvae.png" alt="loss_curve" > <br /> Loss curves of VQ-VAE on PneumoniaMNIST train and validation sets. </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/medical-latent-diffusion-model/blob/master/assets/loss_curve_vqvae.png" alt="loss_curve_vqvae" > <br /> Loss curves of VQ-VAE on PneumoniaMNIST train and validation sets. </p>
 
-<p align="center"> <img src="https://github.com/reshalfahsi/medical-latent-diffusion-model/blob/master/assets/lpips_curve_vqvae.png" alt="lpips_curve" > <br /> LPIPS curves of VQ-VAE on PneumoniaMNIST train and validation sets. </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/medical-latent-diffusion-model/blob/master/assets/lpips_curve_vqvae.png" alt="lpips_curve_vqvae" > <br /> LPIPS curves of VQ-VAE on PneumoniaMNIST train and validation sets. </p>
 
 
 #### Qualitative Result
 
 The image below exhibits the reconstruction quality of VQ-VAE.
 
-<p align="center"> <img src="https://github.com/reshalfahsi/medical-latent-diffusion-model/blob/master/assets/loss_curve_vqvae.png" alt="loss_curve" > <br /> Progressive noising and de-noising are applied to the latent image.  </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/medical-latent-diffusion-model/blob/master/assets/32x32.gif" alt="32x32" > <br /> Progressive noising and de-noising are applied to the latent image.  </p>
 
 
 ### Latent Diffusion Model
 
 #### Loss Curve
 
-<p align="center"> <img src="https://github.com/reshalfahsi/medical-latent-diffusion-model/blob/master/assets/loss_curve_unet.png" alt="loss_curve" > <br /> The modified U-Net loss curves on the latent images of the PneumoniaMNIST train and validation sets. The curve of the EMA model of the U-Net on validation sets is also exhibited. </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/medical-latent-diffusion-model/blob/master/assets/loss_curve_unet.png" alt="loss_curve_unet" > <br /> The modified U-Net loss curves on the latent images of the PneumoniaMNIST train and validation sets. The curve of the EMA model of the U-Net on validation sets is also exhibited. </p>
 
 
 #### Qualitative Reuslt
