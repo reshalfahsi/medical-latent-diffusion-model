@@ -10,8 +10,6 @@
 <div align="center">
     <img src="https://github.com/reshalfahsi/medical-latent-diffusion-model/blob/master/assets/normal.gif" alt="normal" >
     </img>
-    <img src="https://github.com/reshalfahsi/medical-latent-diffusion-model/blob/master/assets/normal_latent.gif" alt="normal_latent" >
-    </img>
     <br />
 </div>
 
@@ -47,7 +45,7 @@ LPIPS       | 0.2709
 
 <p align="center"> <img src="https://github.com/reshalfahsi/medical-latent-diffusion-model/blob/master/assets/loss_curve_vqvae.png" alt="loss_curve" > <br /> Loss curves of VQ-VAE on PneumoniaMNIST train and validation sets. </p>
 
-<p align="center"> <img src="https://github.com/reshalfahsi/medical-latent-diffusion-model/blob/master/assets/lpips_curve-vqvae.png" alt="lpips_curve" > <br /> LPIPS curves of VQ-VAE on PneumoniaMNIST train and validation sets. </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/medical-latent-diffusion-model/blob/master/assets/lpips_curve_vqvae.png" alt="lpips_curve" > <br /> LPIPS curves of VQ-VAE on PneumoniaMNIST train and validation sets. </p>
 
 
 #### Qualitative Result
