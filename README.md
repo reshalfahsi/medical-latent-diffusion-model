@@ -97,6 +97,14 @@ The first and second rows show the generated images and their latent images, res
 
 [Implementing Latent Diffusion Model From Scratch with $0](https://reshalfahsi.medium.com/implementing-latent-diffusion-model-from-scratch-with-0-f3e7254b3ce0)
 
+
+## Other Projects
+
+- [Medical Image Generation Using Diffusion Model](https://github.com/reshalfahsi/medical-image-generation)
+- [EEG Motor Imagery Classification Using CNN, Transformer, and MLP](https://github.com/reshalfahsi/eeg-motor-imagery-classification)
+- [Small Molecular Graph Generation for Drug Discovery](https://github.com/reshalfahsi/molecule-generation-drug-discovery)
+
+
 ## Citation
 
 If you think this repository is helpful for your research, you may cite it:
