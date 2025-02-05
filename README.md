@@ -95,9 +95,7 @@ The first and second rows show the generated images and their latent images, res
 
 ## Blog Post
 
-```
-Coming Soon!
-```
+[Implementing Latent Diffusion Model From Scratch with $0](https://reshalfahsi.medium.com/implementing-latent-diffusion-model-from-scratch-with-0-f3e7254b3ce0)
 
 ## Citation
 
